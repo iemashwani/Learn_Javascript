@@ -20,21 +20,23 @@ navbar(companyName = "ashwani");
 
 
 // Json Format
-{
-    "name": "ashwani",
-    "age": 23,
-    "isStudent": false,
-    "skills": ["html", "css", "js"],
-    "address": {
-        "city": "delhi",
-        "state": "delhi",
-        "country": "india"
+/*
+    {
+        "name": "ashwani",
+        "age": 23,
+        "isStudent": false,
+        "skills": ["html", "css", "js"],
+        "address": {
+            "city": "delhi",
+            "state": "delhi",
+            "country": "india"
+        }
     }
-}
 
-[
-    {},
-    {},
-    {},
-    {}
-]
+    [
+        {},
+        {},
+        {},
+        {}
+    ]
+*/
